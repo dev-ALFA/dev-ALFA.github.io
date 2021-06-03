@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="br-pt">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="https://docs.google.com/uc?id=1Alvbaj2xMvbpcpQ8HtCOTa_aLS0-avvK" type="image/x-icon">
+        <title>Quem somos</title>
+    </head>
+    <body>
+        
+        <table border="0" width="1000" align="center">
+
+            <tr >
+                <td>
+                    <img src="https://docs.google.com/uc?id=1yk0IBSo44y1nBGqk7FEuxb_Qf2jxH1yh"  width="250" alt="logo">
+                </td>
+                
+                <td style="text-align: right; height: 50;" >
+                 
+                    <a href="Index.html">HOME |</a>
+                    <a href="Quem somos.html">QUEM SOMOS |</a>
+                    <a href="Contato.html">CONTATO</a>
+                    
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="2" height="200">
+
+                    <h2>Quem somos</h2>
+
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="2" height="200">
+
+                    <h2>Objetivos</h2>
+
+                </td>
+            </tr>
+
+        </table>
+        
+    </body>
+</html>
